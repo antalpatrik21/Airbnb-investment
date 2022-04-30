@@ -1,4 +1,4 @@
-# Airbnb-investment-
+# Airbnb-investment
 This is a project on how to find the best Airbnb for investment 
 
 ### Imagine a cenario where you have planty of money to spend, and you are following new trends so you are considering to buy an estate for Airbnb. But how can you choose form almost ininite possibilities? 

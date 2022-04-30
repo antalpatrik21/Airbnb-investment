@@ -7,4 +7,4 @@ This is a project on how to find the best Airbnb for investment
 
 #### For my project flow I was able to limit all those possibilities for 12 neighbourhoods in a city that fits our purposes. 
 
-![alt text]https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/2560px-Airbnb_Logo_B%C3%A9lo.svg.png "AIRBNB LOGO")
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Airbnb_Logo_B%C3%A9lo.svg/2560px-Airbnb_Logo_B%C3%A9lo.svg.png "AIRBNB LOGO")
